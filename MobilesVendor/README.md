@@ -11,5 +11,5 @@ This project is a Django-based Vendor Management System with performance metrics
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/vendor-management-system.git
+   git clone  https://github.com/AnasRaza22/MobilesVendor.git
    cd vendor-management-system
